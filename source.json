@@ -16,7 +16,8 @@
     "githubRepos": [
         "awa-vr/VRC-SDK-Plus",
         "awa-vr/No-Auto-Game",
-        "awa-vr/Hierarchy-Plus"
+        "awa-vr/Hierarchy-Plus",
+        "awa-vr/Copy-Cut-Paste"
     ],
     "packages": []
 }
