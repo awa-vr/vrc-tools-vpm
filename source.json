@@ -1,21 +1,22 @@
 {
-    "name":"AwA's VRChat Tools",
-    "id":"com.awavr.vpm",
-    "url":"https://awa-vr.github.io/vrc-tools-vpm/index.json",
-    "author":{
-        "email":"NA",
-        "name":"AwA",
-        "url":"https://linktr.ee/awa_vr"
+    "name": "AwA's VRChat Tools",
+    "id": "com.awavr.vpm",
+    "url": "https://awa-vr.github.io/vrc-tools-vpm/index.json",
+    "author": {
+        "email": "NA",
+        "name": "AwA",
+        "url": "https://linktr.ee/awa_vr"
     },
-    "description":"Collection of tool I made, and a continuation of useful tools that are no longer getting updated.",
-    "infoLink":{
-        "url":"https://github.com/awa-vr/vrc-tools",
-        "text":"View on GitHub"
+    "description": "Collection of tool I made, and a continuation of useful tools that are no longer getting updated.",
+    "infoLink": {
+        "url": "https://github.com/awa-vr/vrc-tools",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "awa-vr/vrc-tools"
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "awa-vr/VRC-SDK-Plus",
+        "awa-vr/No-Auto-Game",
+        "awa-vr/Hierarchy-Plus"
     ],
-    "packages":[
-    ]
+    "packages": []
 }
