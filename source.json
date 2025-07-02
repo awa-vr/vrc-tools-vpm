@@ -18,7 +18,8 @@
         "awa-vr/No-Auto-Game",
         "awa-vr/Hierarchy-Plus",
         "awa-vr/Copy-Cut-Paste",
-        "awa-vr/Controller-Cleaner"
+        "awa-vr/Controller-Cleaner",
+        "awa-vr/Core"
     ],
     "packages": []
 }
