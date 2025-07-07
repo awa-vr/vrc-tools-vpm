@@ -14,13 +14,14 @@
     },
     "bannerUrl": "banner.png",
     "githubRepos": [
+        "awa-vr/Core",
         "awa-vr/VRC-SDK-Plus",
         "awa-vr/No-Auto-Game",
         "awa-vr/Hierarchy-Plus",
         "awa-vr/Copy-Cut-Paste",
         "awa-vr/Controller-Cleaner",
-        "awa-vr/Core",
-        "awa-vr/Preset-Creator"
+        "awa-vr/Preset-Creator",
+        "awa-vr/Parameter-Renamer"
     ],
     "packages": []
 }
