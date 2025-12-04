@@ -21,7 +21,8 @@
         "awa-vr/Copy-Cut-Paste",
         "awa-vr/Controller-Cleaner",
         "awa-vr/Preset-Creator",
-        "awa-vr/Parameter-Renamer"
+        "awa-vr/Parameter-Renamer",
+        "awa-vr/Animation-Property-Finder"
     ],
     "packages": []
 }
