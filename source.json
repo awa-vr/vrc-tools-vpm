@@ -23,7 +23,8 @@
         "awa-vr/Preset-Creator",
         "awa-vr/Parameter-Renamer",
         "awa-vr/Animation-Property-Finder",
-        "awa-vr/Savable-Presets-Creator"
+        "awa-vr/Savable-Presets-Creator",
+        "awa-vr/Sitting-Fix"
     ],
     "packages": []
 }
